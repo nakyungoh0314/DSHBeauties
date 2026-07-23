@@ -10,7 +10,7 @@ One or two sentences on what this project asks and what it found. Replace this b
 | Name | GitHub username |
 |---|---|
 | LiangYing Lee(Wendy) | liangyinglee |
-| |  |
+| Weizhu Pan | WeizhuPan |
 | | |
 | | |
 | | |
