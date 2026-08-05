@@ -7,43 +7,6 @@
 
 ---
 
-## How to use this file
-
-Each member of the group completes one section below. Fill in every bullet. Delete the
-instructions in *italics* as you go, and delete any unused student sections at the bottom
-if your group has fewer than five members.
-
-Three rules:
-
-1. **Components are not co-owned.** No two students may not claim the same component. If you and a partner pair-programmed something, decide who owned it and ackowledge the two person effort. Each person needs their own entry below.
-2. **Everything here must be checkable.** We will follow your file paths and click your links. A claim we cannot verify does not count.
-3. **Link to permanent URLs, not moving ones.** See the note on line numbers below.
-
-> **Reminder — Markdown link syntax.** Write links as `[link text](https://example.com)`. The visible words go in the square brackets and the URL goes in the parentheses, with no space between the two. For example, `[Permalink to load.py](https://github.com/...)` renders as [Permalink to load.py](https://github.com/...). Bare URLs work too, but named links are easier to read.
-
-### A note on line numbers and links
-
-Line numbers go stale the moment someone edits the file above yours. So do links to a branch. Use GitHub **permalinks**, which pin to a specific commit and never move:
-
-> Open the file on GitHub → click the line number (or drag to select a range) → press **`y`** to convert the URL to a permalink → copy.
-
-A permalink looks like this. Note the 40-character commit SHA in the path:
-
-```
-https://github.com/ORG/REPO/blob/a3f2c1e9d4b7.../analysis/model.qmd#L112-L168
-```
-
-Not like this (this one rots):
-
-```
-https://github.com/ORG/REPO/blob/main/analysis/model.qmd#L112-L168
-```
-
-### The data science process
-
-The last bullet in each section asks which portion of the data science process your work contributes to. Name the stage and be specific about your part in it ("data acquisitionand ingestion," "cleaning and validation," "exploratory analysis," "modeling," "evaluation," "visualization and communication," "infrastructure and reproducibility.") If your component spans two stages, say so, and say which one it mostly lives in.
----
-
 ## Student 1: [Sherry Tao] (`argenttt`)
 
 - **The component I "owned" and summarize here is best described as** data cleaning, variable construction, and manuscript integration.
